@@ -1,5 +1,5 @@
 # Claire Opia
-Claire's Data Science Portfolio
+My Data Science Portfolio
 
 # [Project 1: Used Car Price Estimator](https://github.com/claireon/Used-Car-Pricing-Model) 
 * Created a regrssion model that estimates the prices of used cars to help potential buyers determine their budgets based on the car features.
