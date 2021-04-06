@@ -12,9 +12,10 @@ My Data Science Portfolio
 # [Project 2: US University Analysis Based on Forbes Ranking](https://github.com/claireon/Analysis-of-Top-American-Colleges) 
 - The package contains a Jupyter Python Notebook file where I perform anaylysis on the top ranking colleges in the US and try to determine the effect of rank on factors such as Costs, Admittance rate, Alumni salaries.
 - The analysis can help with college decisions for students considering several college choices, particularly in the US
-- The model uses simple Seaborn visualisations to show the relationships
+- It can also be utilised for decisions regarding college where personal funding is limited
 
 ## Notes
+- The model uses simple Seaborn visualisations to show the relationships
 - This notebook takes you through the process of performing an analysis on college ranking data to determine factors influenced by a college ranking.
 
-![rank and acceptance rate](/Images/Capture.JPG) ![rank and annual cost](/Images/Capture2.JPG) ![rank and alumni salary](/Images/Capture3.JPG) ![rank and grant aid](/Images/Capture4.JPG)
+![rank and alumni salary](/Images/Capture3.JPG) ![rank and grant aid](/Images/Capture4.JPG)
