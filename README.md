@@ -1,2 +1,3 @@
-# Claire's Data Science Portfolio
-Claire's Portfolio
+# Claire Opia
+Claire's Data Science Portfolio
+
