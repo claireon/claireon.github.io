@@ -5,7 +5,7 @@ Claire's Data Science Portfolio
 * Created a regrssion model that estimates the prices of used cars to help potential buyers determine their budgets based on the car features.
 * The user can insert car brand, body type, year, engine version, registration status and mileage, and the model can predict with 89% accuracy, how much it will cost them.
 
-![target and prediction comparison](https://github.com/claireon/Used-Car-Pricing-Model/blob/main/Used%20car%20pricing%20comparison.JPG)
+![target and prediction comparison](blob/main/Used%20car%20pricing%20comparison.JPG)
 
 
 
