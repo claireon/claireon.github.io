@@ -5,7 +5,7 @@ Claire's Data Science Portfolio
 * Created a regrssion model that estimates the prices of used cars to help potential buyers determine their budgets based on the car features.
 * The user can insert car brand, body type, year, engine version, registration status and mileage, and the model can predict with 89% accuracy, how much it will cost them.
 
-![target and prediction comparison](blob/main/Used%20car%20pricing%20comparison.JPG)
+![target and prediction comparison](/Images/Used%20car%20pricing%20comparison.JPG)
 
 
 
@@ -17,4 +17,4 @@ Claire's Data Science Portfolio
 ## Notes
 - This notebook takes you through the process of performing an analysis on college ranking data to determine factors influenced by a college ranking.
 
-![rank and acceptance rate](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture.JPG) ![rank and annual cost](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture2.JPG) ![rank and alumni salary](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture3.JPG) ![rank and grant aid](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture4.JPG)
+![rank and acceptance rate](/Images/Capture.JPG) ![rank and annual cost](/Images/Capture2.JPG) ![rank and alumni salary](/Images/Capture3.JPG) ![rank and grant aid](/Images/Capture4.JPG)
