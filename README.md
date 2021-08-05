@@ -26,14 +26,14 @@ My Data Science Portfolio
 
 ## Notes
 - movies_families_are_watching.sql analyses the most watched family movies in the rental store\
-![movies_families_are_watching](https://github.com/claireon/dvdrentals-sql/blob/main/fam_mov_viz.png)
+![movies_families_are_watching](Images/fam_mov_viz.png)
 
 - family_movies_rental_duration.sql analyses the durations of the rented family movies
-![family_movies_rental_duration](https://github.com/claireon/dvdrentals-sql/blob/main/image.png)
+![family_movies_rental_duration](Images/fam_mov_duration.png)
 
 - top_10_customers.sql explores and the top 10 customers of the store
 
-![top_10_customers](https://github.com/claireon/dvdrentals-sql/blob/main/top_10_customers_viz.png)
+![top_10_customers](Images/top_10_customers_viz.png)
 
 - top_10_customer_monthly_payment_differences.sql aims to evaluate the differences in monthly payments by the top 10 customers
-![top_10_customer_monthly_payment_differences](https://github.com/claireon/dvdrentals-sql/blob/main/top_10_pay_diff.png)
+![top_10_customer_monthly_payment_differences](Images/top_10_pay_diff.png)
