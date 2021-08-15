@@ -29,17 +29,17 @@
 - The package contains four sql scripts (.sql files) where I perform anaylysis on a movie rental store database in order to answer some business questions.
 
 ### Notes
-- movies_families_are_watching.sql analyses the most watched family movies in the rental store\
+- `movies_families_are_watching.sql` analyses the most watched family movies in the rental store\
 ![movies_families_are_watching](Images/fam_mov_viz.png)
 
-- family_movies_rental_duration.sql analyses the durations of the rented family movies
+- `family_movies_rental_duration.sql` analyses the durations of the rented family movies
 ![family_movies_rental_duration](Images/fam_mov_duration.png)
 
-- top_10_customers.sql explores and the top 10 customers of the store
+- `top_10_customers.sql` explores and the top 10 customers of the store
 
 ![top_10_customers](Images/top_10_customers_viz.png)
 
-- top_10_customer_monthly_payment_differences.sql aims to evaluate the differences in monthly payments by the top 10 customers
+- `top_10_customer_monthly_payment_differences.sql` aims to evaluate the differences in monthly payments by the top 10 customers
 ![top_10_customer_monthly_payment_differences](Images/top_10_pay_diff.png)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
