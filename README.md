@@ -38,3 +38,4 @@
 ![top_10_customer_monthly_payment_differences](Images/top_10_pay_diff.png)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="claire-opia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/claire-opia?trk=profile-badge">LinkedIn</a></div>
