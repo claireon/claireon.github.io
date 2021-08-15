@@ -2,7 +2,7 @@
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-## <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="claire-opia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/claire-opia?trk=profile-badge"> Connect with me on LinkedIn</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="claire-opia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/claire-opia?trk=profile-badge"> Connect with me on LinkedIn</a></div>
 
 # [Project 1: Used Car Price Estimator](https://github.com/claireon/Used-Car-Pricing-Model) 
 * Created a regrssion model that estimates the prices of used cars to help potential buyers determine their budgets based on the car features.
