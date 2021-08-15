@@ -5,9 +5,8 @@
 * The user can insert car brand, body type, year, engine version, registration status and mileage, and the model can predict with 89% accuracy, how much it will cost them.
 
 ![target and prediction comparison](/Images/Used%20car%20pricing%20comparison.JPG)
-
-
-
+#
+#
 ## [Project 2: US University Analysis Based on Forbes Ranking](https://github.com/claireon/Analysis-of-Top-American-Colleges) 
 - The package contains a Jupyter Python Notebook file where I perform anaylysis on the top ranking colleges in the US and try to determine the effect of rank on factors such as Costs, Admittance rate, Alumni salaries.
 - The analysis can help with college decisions for students considering several college choices, particularly in the US
@@ -18,7 +17,8 @@
 - This notebook takes you through the process of performing an analysis on college ranking data to determine factors influenced by a college ranking.
 
 ![rank and alumni salary](/Images/Capture3.JPG) ![rank and grant aid](/Images/Capture4.JPG)
-
+#
+#
 ## [Project 3: Investigation of the Sakila DVD Rental database](https://github.com/claireon/dvdrentals-sql) 
 - In this project, I use SQL to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answer interesting questions about the database.
 - The package contains four sql scripts (.sql files) where I perform anaylysis on a movie rental store database in order to answer some business questions.
